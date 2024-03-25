@@ -1,0 +1,46 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE BELOW */
+
+#twilightmovie {display: block;
+    width: 300px;
+    margin: 0 auto;}
+
+#bournemovie {display: block;
+    width: 300px;
+    margin: 0 auto;}
+
+#zootopiamovie {display: block;
+    width: 300px;
+    margin: 0 auto;}
+
+#assassinationnationmovie {display: block;
+    width: 300px;
+    margin: 0 auto;}
+
+#conjuringmovie {display: block;
+    width: 300px;
+    margin: 0 auto;}
+
+h2 {text-align: center;
+    color: rgb(0, 0, 0);
+    font-size: 2em;
+    text-transform: uppercase;
+    letter-spacing: 0.07em;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    }
+
+#Movie1 {background-color: rgb(255, 255, 255);}
+
+#Movie3 {background-color: rgb(255, 255, 255);}
+
+#Movie5 {background-color: rgb(255, 255, 255);}
+
+#Movie2 {background-color: rgb(255, 230, 210);}
+
+#Movie4 {background-color: rgb(255, 230, 210);}
+
+p {color:black;
+font-family:Verdana, Geneva, Tahoma, sans-serif;
+    }
+
+#top {background-color: rgb(243, 141, 89);
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
