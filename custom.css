@@ -43,4 +43,8 @@ font-family:Verdana, Geneva, Tahoma, sans-serif;
     }
 
 #top {background-color: rgb(243, 141, 89);
-    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-top: 56px;
+    }
+
+#Movie1, #Movie2, #Movie3, #Movie4, #Movie5, #top {padding: 50px 0;}
